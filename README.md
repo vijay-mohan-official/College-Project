@@ -1,0 +1,1 @@
+Codes used to develop a Face Recognition Locking System for our homes implemented on a Raspberry Pi with a Pi Camer using OpenCV library in Python using Haar Cascade Classifier and Local Binary Patterns Histograms algorithm.
